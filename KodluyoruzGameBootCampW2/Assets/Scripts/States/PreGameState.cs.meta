@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5eed97fb30c9fdd469e95e2b893dd183
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _waitScreen: {fileID: 8475154830203320914, guid: 900118bfadb086140be8fd475085b127,
+      type: 3}
+  - _waitText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
